@@ -8,7 +8,7 @@ __How to run a bash script?__
   *./script_name.sh*
 
 Following are the files that I have uploaded on this repository:
-<br>
+<br><br><br>
 __1. user_password_policy.sh__
 
  - This shell script is used to change the password policy of a user.
