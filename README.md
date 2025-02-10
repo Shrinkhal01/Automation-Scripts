@@ -3,10 +3,10 @@
 Here are some semi-automation scripts that are related to the file-systems:
 
 __How to run a bash script?__
-```
+*
 sudo chmod u+x script_name.sh
 ./script_name.sh
-```
+*
 
 __1. user_password_policy.sh__
 
