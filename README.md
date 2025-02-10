@@ -6,7 +6,6 @@
  - Immediately following the shebang is the path.
  - This is the path of the interpretor to be used for running the script.
 <br>
-Here are some semi-automation scripts that are related to the file-systems:
 
 __How to run a bash script?__
 
