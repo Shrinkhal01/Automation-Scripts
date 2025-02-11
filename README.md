@@ -21,3 +21,9 @@ __1. user_password_policy.sh__
  - M is max password length
  - I is the Inactive days after password expiry
  - W is the warning days before the password expires
+---
+__2. internet-connection-checker.sh__
+
+ - This shell script is used to check the system's connection to internet.
+ - If the system is successfully connected to the internet it pings the google.com.
+ - This is a simple script so just pings the google.com
