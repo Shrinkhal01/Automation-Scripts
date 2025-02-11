@@ -11,9 +11,12 @@
 
 __How to run a bash script?__
 
+
   *sudo chmod u+x script_name.sh*<br>
   *./script_name.sh*
+
 ---
+
 Following are the files that I have uploaded on this repository:
 <br><br>
 __1. user_password_policy.sh__
