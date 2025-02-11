@@ -6,7 +6,9 @@
  - Immediately following the shebang is the path.
  - This is the path of the interpretor to be used for running the script.
 <br>
+
 ---
+
 __How to run a bash script?__
 
   *sudo chmod u+x script_name.sh*<br>
