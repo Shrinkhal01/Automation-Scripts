@@ -46,3 +46,9 @@ __5.lisence-elig.sh__
  - It basically tells wether the input age of the user is for driving lisence or not.
  - Also handles the wrong input,i.e.,if the input is not a number.
 ---
+__6.user_add.sh__
+ - This script is used to add users to the system.
+ - This script asks for the number of users that need to be added.
+ - Then it takes that number and asks for the name of each user.
+ - Then it adds the user to the system.
+---
