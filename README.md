@@ -37,3 +37,7 @@ __3. service-checker.sh__
  - This shell script is used to check for a service status.
  - If the service is not active is starts the service.
  - If the service is active it restarts the service.
+---
+__4. if-then-else.sh__
+ - This shell script implements the basic if then else condition
+---
