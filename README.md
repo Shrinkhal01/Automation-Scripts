@@ -32,3 +32,8 @@ __2. internet-connection-checker.sh__
  - This shell script is used to check the system's connection to internet.
  - If the system is successfully connected to the internet it pings the google.com.
  - This is a simple script so just pings the google.com
+---
+__3. service-checker.sh__
+ - This shell script is used to check for a service status.
+ - If the service is not active is starts the service.
+ - If the service is active it restarts the service.
