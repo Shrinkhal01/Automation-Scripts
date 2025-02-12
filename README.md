@@ -41,3 +41,8 @@ __3. service-checker.sh__
 __4. if-then-else.sh__
  - This shell script implements the basic if then else condition
 ---
+__5.lisence-elig.sh__
+ - This script is uses the if elif condition statement
+ - It basically tells wether the input age of the user is for driving lisence or not.
+ - Also handles the wrong input,i.e.,if the input is not a number.
+---
