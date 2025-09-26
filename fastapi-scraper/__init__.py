@@ -1,0 +1,1 @@
+# FastAPI Product Scraper Application
